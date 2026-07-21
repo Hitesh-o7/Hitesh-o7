@@ -8,8 +8,6 @@
 
 ---
 
-<h2 align="center">Know About Me</h2>
-
 <img src="./assets/brain.png" width="320" align="left"/>
 
 ### Hey there! I'm Hitesh
@@ -42,11 +40,6 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white)](https://hiteshthakur.space)
 
 </div>
-
-<blockquote>
-<p style="font-size:20px">Code is never really finished, it just gets deployed before I change my mind again.</p>
-<p style="font-size:20px">Every commit is a small apology to my future self who has to read it.</p>
-</blockquote>
 
 ---
 
