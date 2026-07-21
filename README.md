@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/banner.gif)
+<img src="./assets/banner.gif" width="100%"/>
 
 **Followers 4** &nbsp;·&nbsp; **Stars 0** &nbsp;·&nbsp; **Profile Views 37**
 
