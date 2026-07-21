@@ -12,7 +12,7 @@
 
 <h2 align="center">Know About Me</h2>
 
-<img src="./assets/brain.png" width="460" align="left"/>
+<img src="./assets/brain.png" width="260" align="left"/>
 
 ### Hey there! I'm Hitesh
 
@@ -26,13 +26,13 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 ## 🚀 Top Projects (built to avoid being bored)
 
-<img src="./assets/book.png" width="460" align="left"/>
+<img src="./assets/book.png" width="260" align="right"/>
 
 **[Crazzy07](https://github.com/Hitesh-o7/Crazzy07)** — the repo where experiments go to either thrive or set the codebase on fire.
 
 **[time-pass](https://github.com/Hitesh-o7/time-pass)** — side quests coded purely out of boredom, no roadmap, no regrets.
 
-<br clear="left"/>
+<br clear="right"/>
 
 ---
 
