@@ -22,9 +22,9 @@
 
 <img src="./assets/book.png" width="290" align="right"/>
 
-**[Crazzy07](https://github.com/Hitesh-o7/Crazzy07)** — the repo where experiments go to either thrive or set the codebase on fire.
+### [Crazzy07](https://github.com/Hitesh-o7/Crazzy07) — the repo where experiments go to either thrive or set the codebase on fire.
 
-**[time-pass](https://github.com/Hitesh-o7/time-pass)** — side quests coded purely out of boredom, no roadmap, no regrets.
+### [time-pass](https://github.com/Hitesh-o7/time-pass) — side quests coded purely out of boredom, no roadmap, no regrets.
 
 <br clear="right"/>
 
