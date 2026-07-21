@@ -2,9 +2,7 @@
 
 ![Header](./assets/banner3-v2.png)
 
-[![Followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=flat-square&color=grey&labelColor=grey)](https://github.com/Hitesh-o7?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&label=Stars&style=flat-square&color=grey&labelColor=grey)](https://github.com/Hitesh-o7?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hitesh-o7&label=Profile+Views&style=flat-square&color=grey)](https://visitcount.itsvg.in)
+**[Followers](https://github.com/Hitesh-o7?tab=followers) 4** &nbsp;·&nbsp; **[Stars](https://github.com/Hitesh-o7?tab=repositories) 0** &nbsp;·&nbsp; **[Profile Views](https://visitcount.itsvg.in) 37**
 
 </div>
 
