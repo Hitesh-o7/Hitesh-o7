@@ -2,7 +2,7 @@
 
 ![Header](./assets/banner3-v2.png)
 
-**[Followers](https://github.com/Hitesh-o7?tab=followers) 4** &nbsp;·&nbsp; **[Stars](https://github.com/Hitesh-o7?tab=repositories) 0** &nbsp;·&nbsp; **[Profile Views](https://visitcount.itsvg.in) 37**
+**Followers 4** &nbsp;·&nbsp; **Stars 0** &nbsp;·&nbsp; **Profile Views 37**
 
 </div>
 
