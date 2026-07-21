@@ -26,7 +26,7 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 ## 🚀 Top Projects (built to avoid being bored)
 
-<img src="./assets/book.png" width="320" align="right"/>
+<img src="./assets/book.png" width="290" align="right"/>
 
 **[Crazzy07](https://github.com/Hitesh-o7/Crazzy07)** — the repo where experiments go to either thrive or set the codebase on fire.
 
