@@ -12,7 +12,7 @@
 
 ## Know About Me
 
-<img src="./assets/brain.png" width="260" align="left"/>
+<img src="./assets/brain.png" width="380" align="left"/>
 
 ### Hey there! I'm Hitesh
 
