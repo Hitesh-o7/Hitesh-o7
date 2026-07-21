@@ -4,7 +4,7 @@
 
 [![Followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Hitesh-o7?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&label=Stars&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Hitesh-o7?tab=repositories)
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHitesh-o7&title=Profile+Views&edge_flat=false&title_bg=%23000000&count_bg=%23000000&titleBgColor=%23000000)](https://github.com/Hitesh-o7)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHitesh-o7&label=Public+Repos&query=%24.public_repos&color=000000&labelColor=000000&style=for-the-badge)](https://github.com/Hitesh-o7?tab=repositories)
 
 </div>
 
