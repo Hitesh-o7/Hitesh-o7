@@ -4,7 +4,7 @@
 
 [![Followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Hitesh-o7?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&label=Stars&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Hitesh-o7?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hitesh-o7&label=Profile+Views&style=for-the-badge&color=000000)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Hitesh-o7.Hitesh-o7&left_color=000000&right_color=000000&style=for-the-badge)](https://github.com/Hitesh-o7)
 
 </div>
 
