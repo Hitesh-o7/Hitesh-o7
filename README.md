@@ -2,9 +2,9 @@
 
 ![Header](./assets/banner3-v2.png)
 
-[![GitHub followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=for-the-badge&color=000000&logo=github&logoColor=white)](https://github.com/Hitesh-o7?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&label=Stars&style=for-the-badge&color=000000&logo=github&logoColor=white)](https://github.com/Hitesh-o7?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=Hitesh-o7&style=for-the-badge&color=blueviolet)](https://visitcount.itsvg.in)
+[![Followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=flat-square&color=grey&labelColor=grey)](https://github.com/Hitesh-o7?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&label=Stars&style=flat-square&color=grey&labelColor=grey)](https://github.com/Hitesh-o7?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hitesh-o7&label=Profile+Views&style=flat-square&color=grey)](https://visitcount.itsvg.in)
 
 </div>
 
