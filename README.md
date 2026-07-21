@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/banner2.jpg)
+![Header](./assets/banner3.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=for-the-badge&color=000000&logo=github&logoColor=white)](https://github.com/Hitesh-o7?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&label=Stars&style=for-the-badge&color=000000&logo=github&logoColor=white)](https://github.com/Hitesh-o7?tab=repositories)
