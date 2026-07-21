@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/banner3-v2.png)
+![Header](./assets/banner.gif)
 
 **Followers 4** &nbsp;·&nbsp; **Stars 0** &nbsp;·&nbsp; **Profile Views 37**
 
