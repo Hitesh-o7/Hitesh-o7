@@ -43,9 +43,10 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 </div>
 
-> Code is never really finished, it just gets deployed before I change my mind again.
->
-> Every commit is a small apology to my future self who has to read it.
+<blockquote>
+<p style="font-size:20px">Code is never really finished, it just gets deployed before I change my mind again.</p>
+<p style="font-size:20px">Every commit is a small apology to my future self who has to read it.</p>
+</blockquote>
 
 ---
 
