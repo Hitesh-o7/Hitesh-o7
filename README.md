@@ -50,8 +50,6 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 ---
 
-## 🖼️ Gallery
-
 <p align="center">
 <img src="./assets/gallery1.png" width="200" />
 <img src="./assets/gallery2.png" width="200" />
