@@ -10,13 +10,15 @@
 
 ---
 
-## Know About Me
+<h2 align="center">Know About Me</h2>
 
-<img src="./assets/brain.png" width="380" align="left"/>
+<img src="./assets/brain.png" width="460" align="left"/>
 
 ### Hey there! I'm Hitesh
 
+<p style="font-size:20px">
 I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling responsible). Most of my week goes into building things, breaking them, then Googling the exact error message I wrote yesterday. When I'm not in a terminal, I'm out chasing mountain passes — the real kind, not the merge-conflict kind.
+</p>
 
 <br clear="left"/>
 
@@ -24,9 +26,13 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 ## 🚀 Top Projects (built to avoid being bored)
 
+<img src="./assets/book.png" width="460" align="left"/>
+
 **[Crazzy07](https://github.com/Hitesh-o7/Crazzy07)** — the repo where experiments go to either thrive or set the codebase on fire.
 
 **[time-pass](https://github.com/Hitesh-o7/time-pass)** — side quests coded purely out of boredom, no roadmap, no regrets.
+
+<br clear="left"/>
 
 ---
 
