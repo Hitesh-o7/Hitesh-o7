@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:F5A623,100:6A11CB&height=200&section=header&text=Hitesh%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Mountain%20pass%20is%20beautiful%20as%20ever&descAlignY=65&descSize=18)
+![Header](./assets/banner.jpg)
 
-[![GitHub followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=for-the-badge&color=F5A623&logo=github)](https://github.com/Hitesh-o7?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&style=for-the-badge&color=6A11CB&logo=github)](https://github.com/Hitesh-o7?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Hitesh-o7?label=Followers&style=for-the-badge&color=000000&logo=github&logoColor=white)](https://github.com/Hitesh-o7?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Hitesh-o7?affiliations=OWNER&label=Stars&style=for-the-badge&color=000000&logo=github&logoColor=white)](https://github.com/Hitesh-o7?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=Hitesh-o7&style=for-the-badge&color=blueviolet)](https://visitcount.itsvg.in)
 
 </div>
