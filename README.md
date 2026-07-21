@@ -54,7 +54,7 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-o7&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true)
+![](https://ghchart.rshah.org/Hitesh-o7)
 
 </div>
 
