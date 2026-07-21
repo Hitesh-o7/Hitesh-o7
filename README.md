@@ -48,14 +48,4 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 >
 > Every commit is a small apology to my future self who has to read it.
 
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-![](https://ghchart.rshah.org/Hitesh-o7)
-
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
