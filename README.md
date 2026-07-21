@@ -12,10 +12,10 @@
 
 ## Know About Me
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="220" align="center">
-<img src="./assets/brain.png" width="180"/>
+<td width="280" align="center">
+<img src="./assets/brain.png" width="260"/>
 </td>
 <td>
 
