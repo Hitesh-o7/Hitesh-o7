@@ -34,13 +34,12 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 ---
 
-## 🔗 Connect
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hitesh-o7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-thakur07)
-[![Website](https://img.shields.io/badge/Website-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hiteshthakur.space)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hitesh-o7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-thakur07)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshthakur695@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white)](https://hiteshthakur.space)
 
 </div>
 
