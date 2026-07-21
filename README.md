@@ -18,9 +18,9 @@
 
 ---
 
-## 🚀 Top Projects (built to avoid being bored)
-
 <img src="./assets/book.png" width="290" align="right"/>
+
+### Projects
 
 ### [Crazzy07](https://github.com/Hitesh-o7/Crazzy07) — the repo where experiments go to either thrive or set the codebase on fire.
 
