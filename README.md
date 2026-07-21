@@ -50,10 +50,12 @@ I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling resp
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Graph
 
-![](https://github-readme-stats.shion.dev/api?username=Hitesh-o7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Hitesh-o7&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hitesh-o7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Hitesh-o7&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
