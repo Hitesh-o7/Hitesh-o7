@@ -12,7 +12,7 @@
 
 <img src="./assets/brain.png" width="320" align="left"/>
 
-### Hey, I'm Hitesh
+### Heyy, I'm Hitesh
 
 ### I'm a dev who turns coffee into JavaScript (and TypeScript when I'm feeling responsible). Most of my week goes into building things, breaking them, then Googling the exact error message I wrote yesterday. When I'm not in a terminal, I'm out chasing mountain passes — the real kind, not the merge-conflict kind.
 
